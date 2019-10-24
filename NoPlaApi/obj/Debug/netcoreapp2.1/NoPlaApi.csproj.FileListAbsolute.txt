@@ -1,0 +1,14 @@
+C:\Users\joshu\source\repos\NoPlaApi\NoPlaApi\bin\Debug\netcoreapp2.1\NoPlaApi.deps.json
+C:\Users\joshu\source\repos\NoPlaApi\NoPlaApi\bin\Debug\netcoreapp2.1\NoPlaApi.runtimeconfig.json
+C:\Users\joshu\source\repos\NoPlaApi\NoPlaApi\bin\Debug\netcoreapp2.1\NoPlaApi.runtimeconfig.dev.json
+C:\Users\joshu\source\repos\NoPlaApi\NoPlaApi\bin\Debug\netcoreapp2.1\NoPlaApi.dll
+C:\Users\joshu\source\repos\NoPlaApi\NoPlaApi\obj\Debug\netcoreapp2.1\NoPlaApi.csprojAssemblyReference.cache
+C:\Users\joshu\source\repos\NoPlaApi\NoPlaApi\obj\Debug\netcoreapp2.1\NoPlaApi.csproj.CoreCompileInputs.cache
+C:\Users\joshu\source\repos\NoPlaApi\NoPlaApi\obj\Debug\netcoreapp2.1\NoPlaApi.RazorAssemblyInfo.cache
+C:\Users\joshu\source\repos\NoPlaApi\NoPlaApi\obj\Debug\netcoreapp2.1\NoPlaApi.RazorAssemblyInfo.cs
+C:\Users\joshu\source\repos\NoPlaApi\NoPlaApi\obj\Debug\netcoreapp2.1\NoPlaApi.AssemblyInfoInputs.cache
+C:\Users\joshu\source\repos\NoPlaApi\NoPlaApi\obj\Debug\netcoreapp2.1\NoPlaApi.AssemblyInfo.cs
+C:\Users\joshu\source\repos\NoPlaApi\NoPlaApi\obj\Debug\netcoreapp2.1\NoPlaApi.RazorTargetAssemblyInfo.cache
+C:\Users\joshu\source\repos\NoPlaApi\NoPlaApi\bin\Debug\netcoreapp2.1\NoPlaApi.pdb
+C:\Users\joshu\source\repos\NoPlaApi\NoPlaApi\obj\Debug\netcoreapp2.1\NoPlaApi.dll
+C:\Users\joshu\source\repos\NoPlaApi\NoPlaApi\obj\Debug\netcoreapp2.1\NoPlaApi.pdb
